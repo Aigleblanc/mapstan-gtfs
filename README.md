@@ -5,8 +5,8 @@ Affichage des infos du reseau de transport Reseau-Stan de Nancy, velostan, parki
 
 Il faut renommer les deux fichiers
 
-config.default.php > config.php
-database.default.php > database.php
+* config.default.php > config.php
+* database.default.php > database.php
 
 et modifier les informations
 
